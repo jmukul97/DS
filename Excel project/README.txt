@@ -1,0 +1,2 @@
+The following data has been collected from Kaggle for the Mobile phones sales data at Flipkart,
+The Basic data analysis is done using Excel and a Dashboard is created with some useful visualisation and few Business Questions.
